@@ -24,6 +24,7 @@ video {
   z-index: -1000;
   overflow: hidden;
 }
+
 #container {
     text-align: center;
     width: 50%;
@@ -44,6 +45,7 @@ video {
   textarea:hover {
     width: 100%;
   }
+
   textarea:hover.tooltiptext {
     visibility: visible;
   }
@@ -60,6 +62,7 @@ video {
     margin: 4px 2px;
     cursor: pointer;
   }
+
   .encryptBtn{
     background-color: white; 
     color: white; 

@@ -4,6 +4,7 @@ const inputText = document.getElementById("inputText");
 const outputText = document.getElementById("outputText");
 const copyBtn = document.getElementById("copyBtn");
 
+
 encryptBtn.addEventListener("click", function() {
   let text = inputText.value;
   text = text.toLowerCase();
@@ -15,6 +16,7 @@ encryptBtn.addEventListener("click", function() {
   outputText.value = text;
 });
 
+
 decryptBtn.addEventListener("click", function() {
   let text = outputText.value;
   text = text.replace(/enter/g, "e");
@@ -24,6 +26,7 @@ decryptBtn.addEventListener("click", function() {
   text = text.replace(/ufat/g, "u");
   outputText.value = text;
 });
+
 
 copyBtn.addEventListener("click", function() {
   outputText.select();
