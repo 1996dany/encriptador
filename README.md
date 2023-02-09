@@ -4,24 +4,24 @@
  
  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
  
- Es practicamente un reto de un curso de alura pero alabes personal  cuya funcion es encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+Es prácticamente un reto de un curso de alura pero alabes personal cuya función es encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada. 
 
-Las "llaves" de encriptación que se utilizaron son las siguientes:
+Las "llaves" de encriptación que se utilizaron son las siguientes: 
 
-La letra "e" es convertida para "enter"
+La letra "e" es convertida para "enter" 
 
-La letra "i" es convertida para "imes"
+La letra "i" es convertida para "imes" 
 
-La letra "a" es convertida para "ai"
+La letra "a" es convertida para "ai" 
 
-La letra "o" es convertida para "ober"
+La letra "o" es convertida para "ober" 
 
-La letra "u" es convertida para "ufat"
+La letra "u" es convertida para "ufat" 
 
-pero con mi toque personal con el poco conocimiento que e obtenido 
+pero con mi toque personal con el poco conocimiento que e obtenido  
 
-Actualmente esta todabia en desarrollo conforme baya obteniendo conocimiento lo ire editando un poco mas 
+Actualmente está todavía en desarrollo conforme vaya obteniendo conocimiento lo iré editando un poco mas  
 
-Para descargar el archivo: Puede hacer clic en el botón verde con el nombre "Code" en la parte superior derecha y luego Descargar zip/Download zip. Luego puede abrir el archivo en su editor preferido
+Para descargar el archivo: Puede hacer clic en el botón verde con el nombre "Code" en la parte superior derecha y luego Descargar zip/Download zip. Luego puede abrir el archivo en su editor preferido 
 
 ![185686126-23339f8c-ecf9-44b8-9c52-996c50750254](https://user-images.githubusercontent.com/120908740/217688030-00617be8-a6f6-4cba-94f8-af878a5ce513.png)
